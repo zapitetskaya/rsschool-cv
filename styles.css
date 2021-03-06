@@ -1,0 +1,35 @@
+.container {
+    background: #222;
+    color: gainsboro;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+ul {
+    background: #333;
+    text-align: left;
+    width: 35%;
+    margin: auto;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border: 5px solid #333;
+}
+
+.code {
+    padding: 15px;
+    margin: auto;
+    color: gray;
+    text-align: left;
+    width: 40%;
+}
+
+a {
+    color: slategrey;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    font-size: 150%;
+}
